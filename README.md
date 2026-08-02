@@ -4,78 +4,32 @@ A modern web-based educational management system designed to simplify academic o
 
 ## ✨ Features
 
- **Secure Authentication:** User login system with protected access.
- **Student Dashboard:** Centralized dashboard for academic activities.
- **Attendance Management:** Track and manage student attendance efficiently.
- **Online Quiz System:** Conduct quizzes and monitor student performance.
- **Timetable Management:** Organize class schedules in one place.
- **Learning Resources:** Easy access to educational materials.
- **Responsive Interface:** Optimized for desktop, tablet, and mobile devices.
- **User-Friendly Navigation:** Clean and intuitive user experience.
+ -**Secure Authentication:** User login system with protected access.
+ -**Student Dashboard:** Centralized dashboard for academic activities.
+ -**Attendance Management:** Track and manage student attendance efficiently.
+ -**Online Quiz System:** Conduct quizzes and monitor student performance.
+ -**Timetable Management:** Organize class schedules in one place.
+ -**Learning Resources:** Easy access to educational materials.
+ -**Responsive Interface:** Optimized for desktop, tablet, and mobile devices.
+ -**User-Friendly Navigation:** Clean and intuitive user experience.
  
 ## 🌐 Technologies Used
 
-**Python & Flask:** Backend development and routing.
-**HTML5:** Semantic page structure.
-**CSS3:** Modern styling and responsive layouts.
-**JavaScript:** Interactive frontend functionality.
-**JSON:** Lightweight data storage.
-**Git & GitHub:** Version control and project management.
+-**Python & Flask:** Backend development and routing.
+-**HTML5:** Semantic page structure.
+-**CSS3:** Modern styling and responsive layouts.
+-**JavaScript:** Interactive frontend functionality.
+-**JSON:** Lightweight data storage.
+-**Git & GitHub:** Version control and project management.
 
 ## 🚀 Project Highlights
 
-**Educational Platform:** Designed for academic institutions.
-**Modular Architecture:** Organized project structure for easy maintenance.
-**Secure Session Management:** Reliable user authentication.
-**Scalable Design:** Easily extendable with additional modules.
-**Clean Codebase:** Structured and maintainable source code.
-
-## 📁 Project Structure
-
- MarenaHub portfolio/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── backend/
-│   ├── app.py
-├── static/
-│   ├── style.css
-│   ├── home.css
-│   ├── quiz.css
-│   ├── script.js
-│   ├── quiz.js
-│   │
-│   ├── images/
-│   │   ├── logo.png
-│   │   ├── banner.png
-│   │
-│   └── videos/
-│       ├── intro.mp4
-│
-└── templates/
-    │
-    ├── index.html
-    ├── Home.html
-    │
-    ├── signup.html
-    ├── Account.html
-    ├── forget.html
-    ├── recovery.html
-    │
-    ├── About.html
-    ├── Contact.html
-    ├── feedback.html
-    │
-    ├── Content.html
-    ├── quiz.html
-    ├── leaderboard.html
-    ├── result.html
-    │
-    ├── certificate.html
-    ├── video.html
-   
+-**Educational Platform:** Designed for academic institutions.
+-**Modular Architecture:** Organized project structure for easy maintenance.
+-**Secure Session Management:** Reliable user authentication.
+-**Scalable Design:** Easily extendable with additional modules.
+-**Clean Codebase:** Structured and maintainable source code.
+ 
 ## 🚀 How to Run
 
 1. Clone this repository.
